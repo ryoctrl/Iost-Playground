@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^7.0.0",
     "iost": "^0.1.10"
   }
 }
