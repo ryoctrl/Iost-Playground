@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bs58": "^4.0.1",
     "dotenv": "^7.0.0",
     "iost": "^0.1.10"
   }
